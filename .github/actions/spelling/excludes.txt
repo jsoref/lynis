@@ -1,0 +1,6 @@
+^CONTRIBUTORS\.md$
+^LICENSE$
+^\.github/
+^db/languages/(?!en)..
+\.db$
+ignore$
